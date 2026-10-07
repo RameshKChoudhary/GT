@@ -33,7 +33,7 @@ yarn install
 3. Start local development server
 
 ```
-yarn start
+yarn dev
 ```
 
 4. Make your changes at either `browser/`, `core/`, or `server/`
